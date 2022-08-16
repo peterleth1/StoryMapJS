@@ -1,0 +1,1 @@
+VCO.Language={name:"Dansk",lang:"da",messages:{loading:"Indlæser",wikipedia:"fra Wikipedia, den frie encyklopedi",start:"Start"},buttons:{map_overview:"Vis oversigtskort",overview:"Vis oversigtskort",backtostart:"Til begyndelsen",collapse_toggle:"Skjul kort",uncollapse_toggle:"Vis kort"}};
