@@ -1,0 +1,17 @@
+{
+    "name": "Dansk",
+    "lang": "da",
+    "messages": {
+        "loading": "Indlæser",
+        "wikipedia": "fra Wikipedia, den frie encyklopedi",
+		"start": 				"Start"
+    },
+    "buttons": {
+        "map_overview":      "Se oversigtskort",
+		"overview":          "Se oversigtskort",
+        "backtostart":       "Til begyndelsen",
+        "collapse_toggle":   "Skjul kort",
+        "uncollapse_toggle": "Vis kort",
+  		"swipe_to_navigate": "Swipe to Navigate<br><span class='vco-button'>OK</span>"
+    }
+}
